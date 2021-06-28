@@ -1,7 +1,5 @@
 # python_ex03_ex04
 
-Alex Miller
-
 ### Comandos básicos
 
 - COMANDO para instalar dependências:
